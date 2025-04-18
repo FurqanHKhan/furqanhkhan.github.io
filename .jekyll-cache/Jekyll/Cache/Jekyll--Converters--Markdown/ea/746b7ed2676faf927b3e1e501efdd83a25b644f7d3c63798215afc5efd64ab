@@ -1,0 +1,29 @@
+I"Ô	<h3 id="mobile-device-management-solution-for-samsung-android-devices-at-insitec-pty-ltd-for-period-july-2023---feb-2024">Mobile Device Management Solution for Samsung Android Devices at Insitec Pty Ltd. for Period July 2023 - Feb. 2024</h3>
+
+<p>This project exploring the device management plane of android devices. It include the following tasks not limited to,</p>
+
+<p>Using Samsung Android kernel devOps tools to customize, compile, build, and test configuration changes and built modules.</p>
+
+<p>Exploring the android OS security mechanism for Samsung Knox devices.</p>
+
+<p>Testing the provided official Samsung binary with supported permission.</p>
+
+<h3 id="software-defined-networking-solution-for-intermittently-connected-devices-at-insitec-pty-ltd-for-period-dec-2020---june-2023">Software-Defined-Networking Solution for Intermittently Connected Devices at Insitec Pty Ltd. for Period Dec. 2020 - June. 2023</h3>
+
+<p>Our software-defined networking solution enables desparate nodes to connect each other, share topology information, as well as forward multimedia (audio/video) traffic over the network. A simulated version of our solution was also implemented using the discrete event-based network simulation platform from our partner.</p>
+
+<p>Responsibilities: Lead our team as part of Insitec Pty Ltd. to conceptualize, design, develop, test, automate, and deploy the software-defined networking solution.</p>
+
+<h3 id="performance-enhancement-of-ant-radio-technology-used-in-siemens-fusesave-product-portfolio-devices-at-siemens-rd-department-for-period-oct-2019-to-march-2020">Performance Enhancement of ANT Radio Technology used in Siemens Fusesave Product Portfolio Devices at Siemens (R&amp;D Department) for Period Oct. 2019 to March 2020</h3>
+
+<p>Worked on investigating the ANT/ANT+ system performance enhancement for optimizing the
+operational capability of the Siemens Fuse-saver product. Implementing new approaches to measure
+system performance and improve short-range Internet-of-Things communication by developing and
+testing new algorithms in both embedded and PC platforms.</p>
+
+<h3 id="using-lorawan-for-cattle-tracking-and-activity-classification-in-a-herd-environment">Using LoRaWAN for Cattle Tracking and Activity Classification in a Herd Environment</h3>
+
+<p>Worked on the test-bed setup, testing, and evaluation of different low-power wide-area Internet-of-Things networks for large-scale grazing animals tracking application using the STM32 series
+micro-controller devices.</p>
+
+:ET
